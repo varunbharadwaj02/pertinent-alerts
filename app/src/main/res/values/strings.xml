@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PertinentAlerts</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_set_alarm">SetAlarm</string>
+    <string name="weather">Weather</string>
+    <string name="weather_update">Weather update</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="enter_city_code_optional">Enter city code (optional)</string>
+
+    <style name="Theme.AppCompat.Light.NoActionBar.FullScreen" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>
